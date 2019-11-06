@@ -5,7 +5,7 @@ import csv
 
 
 def takePosts():
-    token = '03cce87403cce87403cce8744003a12cdb003cc03cce8745e72fcb5e11d83c9be317fc6'
+    token = 'TOKEN'
     version = 5.103
     domain = 'papclub1'
     offset = 0
